@@ -1,7 +1,7 @@
 ### About me!
 
 <h1 align="left">Hi 👋, I'm HoYeon Park</h1>
-<h3 align="left">ios Developer from 🇰🇷 Korea </h3>
+<h3 align="left">I'm ios Developer from 🇰🇷 Korea </h3>
 
 - 🔭 I’m currently working on [HanYang University](https://hy-mooc.hanyang.ac.kr/lms)
 

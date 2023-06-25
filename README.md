@@ -1,9 +1,7 @@
-# Is me!
+# Think different, solve simple💡
 
-<h1 align="left">Hi 🤝, This is HoYeon Park, a Developer who codes dream.</h1>
-<h3 align="left">"Think different, solve simple" </h3>
-<h1 align="center">Hi 👋, I'm HoYeon Park</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="left">Hi 👋, I'm HoYeon Park</h1>
+<h3 align="left">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [HanYang University](https://hy-mooc.hanyang.ac.kr/lms)
 
@@ -11,7 +9,6 @@
 
 - 📫 How to reach me **peterpark001221@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
